@@ -1,0 +1,22 @@
+"""""""""""""""""""""""""""""""""""""""""""""""""
+CI - Tutorial 3 - ACO to solve TSP ry48p Assymetric travelling salesman problem
+9-10-2011
+Pravinkumar Baskaran - 20552966
+"""""""""""""""""""""""""""""""""""""""""""""""""
+
+Instructions for running
+------------------------
+
+All the experiements and main function are available within the same file.
+
+Specific experiement or the main can be executed by commenting or uncommenting the function call at the end of the file.
+
+after chooseing experiement - execute  through command prompt "python ant.py"
+
+Input
+------
+tsp_matrix.atsp is the file that contains information about the ry48p problem. This file is created manually by stripping everything other than matrix in original tsp file. 
+
+Output
+------
+"Generation,localbest" will be appended to the result.csv file
